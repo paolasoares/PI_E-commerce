@@ -1,0 +1,13 @@
+package com.Shopme;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class ShopmeComumApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}

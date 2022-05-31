@@ -1,0 +1,13 @@
+package com.Shopme;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class ShopmeComumApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(ShopmeComumApplication.class, args);
+	}
+
+}
